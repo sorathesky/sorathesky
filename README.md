@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sorathesky
+- 👋 Hi, I’m Xarces
 - 👀 I’m interested in a little bit of everything, especially cars.
-- 🌱 I’m currently learning how to leverage the entire Django ecosystem.
-- 💞️ I’m looking to collaborate on gaming related content.
+- 🌱 I’m currently learning how to leverage programming.
+- 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me, I honestly don't know yet.
 
 <!---
